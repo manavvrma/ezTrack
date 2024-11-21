@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+  background-color: #03010e;
+  /* background-color: #a39dca; */
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+}
